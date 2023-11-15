@@ -53,6 +53,7 @@ form {
     transform: translateY(-100px);
     z-index: 500;
     border: 1px solid #eee;
+    border-radius: 10px;
 
     &.up {
         transform: translateY(-180px);
@@ -79,6 +80,7 @@ h1 {
     font-size: 14px;
     letter-spacing: 1px;
     text-transform: uppercase;
+    border-radius: 5px;
 
     &:hover {
         box-shadow: 0 0 #6eb921 inset;
