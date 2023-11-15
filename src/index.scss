@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script|Roboto);
+
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    background: #cce08b;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+.container {
+    padding: 0 15px;
+    overflow-x: hidden;
+}
