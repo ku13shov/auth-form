@@ -61,7 +61,7 @@ function Form() {
                             onChange={(e) => setEmail(e.target.value)}
                             onFocus={handleEmailFocus}
                         />
-                        <label className={styles['form-label']}>Username</label>
+                        <label className={styles['form-label']}>Email</label>
                     </div>
                     <div className={styles['form-group']}>
                         <input
