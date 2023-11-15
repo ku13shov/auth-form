@@ -22,6 +22,7 @@ _password:_ `changeme`
 -   **ReactJS 18**
 -   **Fetch**
 -   React Hooks
--   Prettier
 -   CSS-Modules / SCSS
+-   Prettier
+-   ESLint
 -   Platzi Fake Store API — [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)
